@@ -244,8 +244,8 @@ function getVagasBySkill(skill) {
         const descricaoLower = vaga.descricao.toLowerCase();
         
         return requisitosString.includes(skillLower) || 
-               diferenciaisString.includes(skillLower) || 
-               descricaoLower.includes(skillLower);
+            diferenciaisString.includes(skillLower) || 
+            descricaoLower.includes(skillLower);
     });
 }
 

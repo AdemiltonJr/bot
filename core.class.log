@@ -2,26 +2,26 @@
   key: {
     remoteJid: '5519987382803@s.whatsapp.net',
     fromMe: false,
-    id: 'A36382CE77E379C63750B14CE6C4A3E0',
+    id: '2D44CC3A24114642C78BF3270534F921',
     participant: undefined
   },
-  messageTimestamp: 1742668212,
+  messageTimestamp: 1742672248,
   pushName: 'Ademilton Jr.',
   broadcast: false,
   message: Message {
-    conversation: 'Tem alguma vaga?',
+    conversation: 'Oi',
     messageContextInfo: MessageContextInfo {
       deviceListMetadata: [DeviceListMetadata],
       deviceListMetadataVersion: 2,
       messageSecret: [Uint8Array]
     }
   },
-  body: 'Tem alguma vaga?',
+  body: 'Oi',
   from: '5519987382803'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_8ca2073a-8150-4178-aa2f-ffadd83e8de5',
-  keyword: 'key_25fc9cfc-760f-40a3-bd37-07a9a4a840b9',
+  ref: 'ans_fe0cd757-086c-4f28-aa43-62cb182b9c30',
+  keyword: 'key_33349ea9-67bd-4941-b7a4-467b97907356',
   answer: '__call_action__',
   options: {
     media: null,
@@ -35,5 +35,200 @@
     keyword: {},
     callback: true
   },
-  refSerialize: 'cd1b44238338a1d523a2105771cd55d3'
+  refSerialize: '3822cfa110796e3a965eb11ba92329fb'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5519987382803@s.whatsapp.net',
+    fromMe: false,
+    id: '67022011C2085D07433557700FDC9151',
+    participant: undefined
+  },
+  messageTimestamp: 1742672266,
+  pushName: 'Ademilton Jr.',
+  broadcast: false,
+  message: Message {
+    conversation: 'Quais vagas tem disponível?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Quais vagas tem disponível?',
+  from: '5519987382803'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4719e178-c3b4-4c6c-96df-4c7121bae689',
+  keyword: 'key_5a79e19c-29b3-44ee-b6a7-811f9006b1a8',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '96f5dd99c8f0b4be98782b61e100ae8d'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5519987382803@s.whatsapp.net',
+    fromMe: false,
+    id: '38B805D0D66E53DDF044196A32EB68F4',
+    participant: undefined
+  },
+  messageTimestamp: 1742672299,
+  pushName: 'Ademilton Jr.',
+  broadcast: false,
+  message: Message {
+    conversation: 'Essa segunda vaga tem algum benefício?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Essa segunda vaga tem algum benefício?',
+  from: '5519987382803'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4719e178-c3b4-4c6c-96df-4c7121bae689',
+  keyword: 'key_5a79e19c-29b3-44ee-b6a7-811f9006b1a8',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '96f5dd99c8f0b4be98782b61e100ae8d'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5519987382803@s.whatsapp.net',
+    fromMe: false,
+    id: 'FA40911E33295B03AAAFFAA7AFABE1D4',
+    participant: undefined
+  },
+  messageTimestamp: 1742672336,
+  pushName: 'Ademilton Jr.',
+  broadcast: false,
+  message: Message {
+    conversation: 'Como funciona o processo seletivo?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Como funciona o processo seletivo?',
+  from: '5519987382803'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4099d2b4-b63b-4f47-8866-5b1a953637c7',
+  keyword: 'key_e35bdbd4-1f9a-4dfc-bfbe-454fdb1e4dce',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '3bfb27d10795a6f449c0f314c1e92498'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5519987382803@s.whatsapp.net',
+    fromMe: false,
+    id: '6F0DC49D6114DABD8DC8CF2C0511A2F1',
+    participant: undefined
+  },
+  messageTimestamp: 1742672396,
+  pushName: 'Ademilton Jr.',
+  broadcast: false,
+  message: Message {
+    conversation: 'Quero aplicar para a vaga de Full Stack',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Quero aplicar para a vaga de Full Stack',
+  from: '5519987382803'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4719e178-c3b4-4c6c-96df-4c7121bae689',
+  keyword: 'key_5a79e19c-29b3-44ee-b6a7-811f9006b1a8',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '96f5dd99c8f0b4be98782b61e100ae8d'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5519987382803@s.whatsapp.net',
+    fromMe: false,
+    id: '39711E6CC2880E1FACCF963C8C186B6F',
+    participant: undefined
+  },
+  messageTimestamp: 1742672439,
+  pushName: 'Ademilton Jr.',
+  broadcast: false,
+  message: Message {
+    conversation: 'Não tenho nenhuma dúvida, como faço para me candidatar?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Não tenho nenhuma dúvida, como faço para me candidatar?',
+  from: '5519987382803'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_fe0cd757-086c-4f28-aa43-62cb182b9c30',
+  keyword: 'key_33349ea9-67bd-4941-b7a4-467b97907356',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '3822cfa110796e3a965eb11ba92329fb'
 }
