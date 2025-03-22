@@ -1,0 +1,39 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5519987382803@s.whatsapp.net',
+    fromMe: false,
+    id: 'A36382CE77E379C63750B14CE6C4A3E0',
+    participant: undefined
+  },
+  messageTimestamp: 1742668212,
+  pushName: 'Ademilton Jr.',
+  broadcast: false,
+  message: Message {
+    conversation: 'Tem alguma vaga?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Tem alguma vaga?',
+  from: '5519987382803'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_8ca2073a-8150-4178-aa2f-ffadd83e8de5',
+  keyword: 'key_25fc9cfc-760f-40a3-bd37-07a9a4a840b9',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'cd1b44238338a1d523a2105771cd55d3'
+}
